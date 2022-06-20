@@ -5,7 +5,7 @@
 - 📕 Currently I am learning these languages: C++, Python, JS 
 - 🐲 Also, I use Kali btw....
 
-<script src="https://tryhackme.com/badge/1047816"></script>
+
 <!--
 **MichalKoudela/MichalKoudela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
