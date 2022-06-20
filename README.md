@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hello guys 👋🏻
 - 💻 I'm a cyber serurity student in high school.
 - 🔧 I focus on cryptography, general programming and reverse enginerring.
 - 📘 I've so far learn these programming languages: C#
-- 📕 Currently I am learning these languages: C++, Python JS 
+- 📕 Currently I am learning these languages: C++, Python, JS 
 - 🐲 Also, I use Kali btw....
 <!--
 **MichalKoudela/MichalKoudela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
