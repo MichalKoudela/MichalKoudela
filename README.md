@@ -1,4 +1,4 @@
-###                              Hi I'm Micha(e)l Koudela
+###                              Hi I'm Michal Koudela
 _____________________________________________________________________________________________________
 - 💻 I'm a cyber serurity student in high school.
 - 🔧 I focus on cryptography, general programming and reverse enginerring.
