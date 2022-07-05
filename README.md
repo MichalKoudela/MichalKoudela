@@ -2,7 +2,7 @@
 _____________________________________________________________________________________________________
 - 💻 I'm a cyber serurity student in high school.
 - 🔧 I focus on cryptography, general programming and reverse enginering.
-- 📘 I've so far learn these programming languages: C#
+- 📘 I've work experience in these languages: C#
 - 📕 Currently I am learning these languages: C++, Python, JS 
 - 🐲 Also, I use Kali btw....
 
