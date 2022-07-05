@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 
 
-[Here](https://tryhackme.com/p/Probin) is my TryHackMe Profile:
+[Here](https://tryhackme.com/p/Probin) is my TryHackMe profile:
 
 ![Probin](https://user-images.githubusercontent.com/100596513/174675447-dee6a992-4c8e-45c9-a81b-cf2463167e57.png)
 
