@@ -1,7 +1,8 @@
-###                              Hi I'm Michal Koudela
+###    
+                                    Hi I'm Michal Koudela
 _____________________________________________________________________________________________________
-- 💻 I'm a cyber serurity student in high school.
-- 🔧 I focus on cryptography, general programming and reverse enginering.
+- 💻 I'm a cyber serurity student in SSPSaG in Prague.
+- 🔧 I focus on cryptography, programming, reverse engeneering and forensic analyse
 - 📘 I've experience in these languages: C#
 - 📕 Currently I am learning these languages: C++, Python, JS 
 - 🐲 Also, I use Kali btw....
