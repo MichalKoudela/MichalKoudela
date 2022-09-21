@@ -11,8 +11,11 @@ now I'm using **Debian** but will meaby change to slackware ?.
     - Easy answear because it is *waste of my time*. You have to set up arch for meaby too long and of course you have to update it regulary.
 
 
+### Other Profiles:
+[Here](https://www.linkedin.com/in/michal-koudela/) is my LinkedIn profile.
+
 [Here](https://tryhackme.com/p/Probin) is my TryHackMe profile:
 
 ![Probin](https://user-images.githubusercontent.com/100596513/174675447-dee6a992-4c8e-45c9-a81b-cf2463167e57.png)
 
-[Here](https://www.linkedin.com/in/michal-koudela/) is my LinkedIn profile.
+
