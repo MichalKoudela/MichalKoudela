@@ -8,7 +8,7 @@ ________________________________________________________________________________
 - 🐧 Also, I use linux, but i do change distros, probably too often. I started at ***Kali*** tried ***Ubuntu*** (Never again)
 now I'm using ***Debian***. 
     - This raises the question, but michael why don't you use Arch Linux ?
-    - Easy answear because it is *waste of my time*. You have to set up arch for meaby too long and of course you have to update it regulary.
+    - Easy answear because it is *waste of my time*. You have to set up arch for meaby too long and of course you have to update it regulary. And of course beacuse arch linuxe is a sh*t !
 
 
 #### Other Profiles:
