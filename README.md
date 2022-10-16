@@ -18,6 +18,8 @@ ________________________________________________________________________________
 ### CTFs I participated
 #### 2022:
 - 💀 DeadFace CTF - 283rd Place / 1173 teams (Used N0F4C3 nickname)
+
+![Cyber Hacktics - DEADFACE CTF 2022 Competitor - 2022-10-15](https://user-images.githubusercontent.com/100596513/196055979-7862a24e-2a51-4d21-ad0f-96506934a907.png)
 _____________________________________________________________________________________________________
 
 ### Other Profiles:
