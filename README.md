@@ -18,7 +18,7 @@ now I'm using ***Debian***.
 
 ### CTFs I participated
 #### 2022:
-- 💀 DeadFace CTF - 283rd Place / 1173 teams
+- 💀 DeadFace CTF - 283rd Place / 1173 teams (Used N0F4C3 nickname)
 
 
 
