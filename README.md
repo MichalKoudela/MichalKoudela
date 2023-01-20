@@ -4,7 +4,7 @@ ________________________________________________________________________________
 
 🔧 I focus on cryptography, programming, networking and malware analyze.
 
-📘 I am experienced in these languages: C#
+📘 I have experience in these languages: C#, Python, Javascript
 
 📕 Currently I am learning this language: C
 
