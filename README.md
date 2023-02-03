@@ -19,7 +19,7 @@ ________________________________________________________________________________
 ![Cyber Hacktics - DEADFACE CTF 2022 Competitor - 2022-10-15](https://user-images.githubusercontent.com/100596513/196055979-7862a24e-2a51-4d21-ad0f-96506934a907.png)
 
 #### 2023:
-- 🐱 Kyber Soutěž 2022/2023 - Place ? yet unknown
+- 🐱 Kyber Soutěž 2022/2023 - First round: 129/465 - Second round: 46/244 - Final round: ?
 - 🔍 KnightCTF 2023  - Place 222/848
 _____________________________________________________________________________________________________
 
