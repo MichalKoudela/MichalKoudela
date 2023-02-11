@@ -12,7 +12,14 @@ ________________________________________________________________________________
 now I'm using ***Debian***. Finally settled on Kali for Hacking stuff and Debian for anything else. Oh and i tried Fedora did not work for me.
 
 _____________________________________________________________________________________________________
-### CTFs
+### Completed Courses:
+- CCNAv7: Introduction to Networks - by FEL ČVUT
+_____________________________________________________________________________________________________
+### Certificates:
+- Sololearn (JS,C#,C++,C,)
+- TryHackMe (Web Fundementals, Pre-security, Complete Beginner)
+_____________________________________________________________________________________________________
+### Participated CTFs
 #### 2022:
 - 💀 DeadFace CTF - 283rd Place / 1173 teams (Used N0F4C3 nickname)
 
@@ -25,15 +32,7 @@ ________________________________________________________________________________
   
   - Second round: 46/244 
   
-  - Final round: ?
+  - Final round: ?/51
 
 - 🔍 KnightCTF 2023  - Place 222/848
-_____________________________________________________________________________________________________
-
-### Other "very important" Profiles:
-[Here](https://www.linkedin.com/in/michal-koudela/) is my LinkedIn profile.
-
-[Here](https://tryhackme.com/p/Probin) is my TryHackMe profile:
-
-![Probin](https://user-images.githubusercontent.com/100596513/174675447-dee6a992-4c8e-45c9-a81b-cf2463167e57.png)
 _____________________________________________________________________________________________________
