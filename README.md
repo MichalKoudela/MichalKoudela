@@ -1,29 +1,20 @@
 ##                               Hi, I'm Michal Koudela
-_____________________________________________________________________________________________________
-💻 A cyber serurity student in prestige SSPŠ, located at Prague.
 
-🔧 I focus on cryptography, programming, networking and malware analyze.
+♠️  Also using these nicknames: N0F4C3, Probin
 
-📘 I have experience in these languages: C#, Python, Javascript
+💻 A cyber serurity student in SSPŠ in Czech Republic.
 
-📕 Currently I am learning this language: C
+🔧 Main focus is on Networking, Forensics, Reverse Engeneering and Programming.
 
-🐧 Also, I use linux, but i do change distros, probably too often. I started at ***Kali*** tried ***Ubuntu*** (Never again)
-now I'm using ***Debian***. Finally settled on Kali for Hacking stuff and Debian for anything else. Oh and i tried Fedora did not work for me.
+🐧 Also a linux user of course.... tried many distros over the year currently working with Kali on my MAC as VM.
+So... yeah i'm also an 🍎 user.
 
-_____________________________________________________________________________________________________
-### Completed Courses:
-- CCNAv7: Introduction to Networks - by FEL ČVUT
-_____________________________________________________________________________________________________
-### Certificates:
-- Sololearn (JS,C#,C++,C,)
-- TryHackMe (Web Fundementals, Pre-security, Complete Beginner)
-_____________________________________________________________________________________________________
-### Participated CTFs
+#### You can fined my certificates and completed courses in C&C.md file. 
+
+### CTFs:
 #### 2022:
 - 💀 DeadFace CTF - 283rd Place / 1173 teams (Used N0F4C3 nickname)
-
-![Cyber Hacktics - DEADFACE CTF 2022 Competitor - 2022-10-15](https://user-images.githubusercontent.com/100596513/196055979-7862a24e-2a51-4d21-ad0f-96506934a907.png)
+<img src="https://user-images.githubusercontent.com/100596513/196055979-7862a24e-2a51-4d21-ad0f-96506934a907.png" alt="Challange from VishwaCTF2023" style="width:196px; height:196px;/">
 
 #### 2023:
 - 🐱 Kyber Soutěž 2022/2023 
@@ -37,4 +28,3 @@ ________________________________________________________________________________
 - 🔍 KnightCTF 2023  - Place 222/848
 - 💥 PicoCTF 2023 - Place 1412/6924
 - ♦️ VishwaCTF 2023 - Place 35/1090
-_____________________________________________________________________________________________________
