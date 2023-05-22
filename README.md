@@ -9,7 +9,7 @@
 🐧 Also a linux user of course.... tried many distros over the year currently working with Kali on my MAC as VM.
 So... yeah i'm also an 🍎 user.
 
-### You can fined my certificates and completed courses in C&C file. 
+#### C&C contains my certificates and completed courses. 
 
 ### CTFs:
 #### 2022:
