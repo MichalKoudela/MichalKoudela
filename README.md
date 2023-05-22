@@ -23,7 +23,7 @@ So... yeah i'm also an 🍎 user.
   
   - Second round: 46/244 
   
-  - Final round: ?/51
+  - Final round: 0/51 (Didn't get a point so i could't be rated.)
 
 - 🔍 KnightCTF 2023  - Place 222/848
 - 💥 PicoCTF 2023 - Place 1412/6924
